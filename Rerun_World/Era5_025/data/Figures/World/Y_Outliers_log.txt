@@ -1,0 +1,323 @@
+ACCESS-CM2
+        tasmax    scenario
+Year                      
+1922  2.495123  historical
+1923  2.377683  historical
+1939  3.007563  historical
+1950  3.131593  historical
+1959  2.429193  historical
+1979  3.168453  historical
+1995  3.578623  historical
+
+ACCESS-CM2
+ACCESS-CM2
+        tasmax scenario
+Year                   
+2070  5.606923   ssp126
+
+ACCESS-CM2
+        tasmax scenario
+Year                   
+2080  7.781493   ssp245
+2099  7.486573   ssp245
+
+ACCESS-CM2
+ACCESS-CM2
+ACCESS-ESM1-5
+         tasmax    scenario
+Year                       
+1877   9.543005  historical
+1882  11.452185  historical
+1884   9.395635  historical
+1901   9.077885  historical
+1976   7.482945  historical
+1989   7.992865  historical
+2004   9.022405  historical
+2007   8.254005  historical
+
+ACCESS-ESM1-5
+ACCESS-ESM1-5
+ACCESS-ESM1-5
+ACCESS-ESM1-5
+         tasmax scenario
+Year                    
+2036  16.250465   ssp370
+
+ACCESS-ESM1-5
+BCC-CSM2-MR
+BCC-CSM2-MR
+BCC-CSM2-MR
+BCC-CSM2-MR
+BCC-CSM2-MR
+BCC-CSM2-MR
+CMCC-ESM2
+CMCC-ESM2
+CMCC-ESM2
+CMCC-ESM2
+CMCC-ESM2
+CMCC-ESM2
+CNRM-CM6-1-HR
+CNRM-CM6-1-HR
+CNRM-CM6-1-HR
+CNRM-CM6-1-HR
+CNRM-CM6-1-HR
+CNRM-CM6-1-HR
+CNRM-CM6-1
+        tasmax    scenario
+Year                      
+1881  2.056569  historical
+
+CNRM-CM6-1
+CNRM-CM6-1
+CNRM-CM6-1
+CNRM-CM6-1
+CNRM-CM6-1
+CNRM-ESM2-1
+CNRM-ESM2-1
+CNRM-ESM2-1
+CNRM-ESM2-1
+CNRM-ESM2-1
+CNRM-ESM2-1
+CanESM5
+CanESM5
+       tasmax scenario
+Year                  
+2021  5.44403   ssp119
+2078  5.15366   ssp119
+
+CanESM5
+CanESM5
+CanESM5
+CanESM5
+CanESM5
+        tasmax    scenario
+Year                      
+1859  4.031244  historical
+
+CanESM5
+        tasmax scenario
+Year                   
+2061  5.760434   ssp119
+
+CanESM5
+        tasmax scenario
+Year                   
+2022  4.999504   ssp126
+2089  5.660794   ssp126
+
+CanESM5
+        tasmax scenario
+Year                   
+2092  7.313134   ssp245
+
+CanESM5
+CanESM5
+E3SM-1-0
+        tasmax    scenario
+Year                      
+1952  2.895592  historical
+
+E3SM-1-0
+E3SM-1-0
+E3SM-1-0
+E3SM-1-0
+E3SM-1-0
+EC-Earth3-CC
+        tasmax    scenario
+Year                      
+1863  1.215959  historical
+
+EC-Earth3-CC
+EC-Earth3-CC
+EC-Earth3-CC
+EC-Earth3-CC
+EC-Earth3-CC
+EC-Earth3-Veg-LR
+EC-Earth3-Veg-LR
+EC-Earth3-Veg-LR
+EC-Earth3-Veg-LR
+EC-Earth3-Veg-LR
+EC-Earth3-Veg-LR
+EC-Earth3-Veg
+EC-Earth3-Veg
+EC-Earth3-Veg
+EC-Earth3-Veg
+EC-Earth3-Veg
+EC-Earth3-Veg
+EC-Earth3
+        tasmax    scenario
+Year                      
+1908  1.500741  historical
+
+EC-Earth3
+        tasmax scenario
+Year                   
+2100  4.106911   ssp119
+
+EC-Earth3
+        tasmax scenario
+Year                   
+2059  4.525241   ssp126
+2077  4.417081   ssp126
+
+EC-Earth3
+EC-Earth3
+EC-Earth3
+FGOALS-g3
+FGOALS-g3
+FGOALS-g3
+FGOALS-g3
+FGOALS-g3
+FGOALS-g3
+GFDL-ESM4
+GFDL-ESM4
+GFDL-ESM4
+GFDL-ESM4
+GFDL-ESM4
+GFDL-ESM4
+INM-CM4-8
+INM-CM4-8
+INM-CM4-8
+INM-CM4-8
+INM-CM4-8
+INM-CM4-8
+INM-CM5-0
+INM-CM5-0
+INM-CM5-0
+INM-CM5-0
+INM-CM5-0
+INM-CM5-0
+IPSL-CM6A-LR
+        tasmax    scenario
+Year                      
+1853  2.646611  historical
+1873  3.217721  historical
+1882  3.228521  historical
+1921  3.704551  historical
+1982  4.006991  historical
+2006  5.409281  historical
+2014  4.550601  historical
+
+IPSL-CM6A-LR
+IPSL-CM6A-LR
+IPSL-CM6A-LR
+IPSL-CM6A-LR
+        tasmax scenario
+Year                   
+2065  9.469851   ssp370
+
+IPSL-CM6A-LR
+MIROC-ES2L
+        tasmax    scenario
+Year                      
+1930  2.671367  historical
+
+MIROC-ES2L
+MIROC-ES2L
+MIROC-ES2L
+MIROC-ES2L
+MIROC-ES2L
+MIROC6
+        tasmax    scenario
+Year                      
+1910  2.901905  historical
+1931  3.375585  historical
+1984  3.643505  historical
+
+MIROC6
+        tasmax scenario
+Year                   
+2049  5.823485   ssp119
+
+MIROC6
+        tasmax scenario
+Year                   
+2062  6.890515   ssp126
+2079  6.513715   ssp126
+
+MIROC6
+        tasmax scenario
+Year                   
+2083  8.200425   ssp245
+2099  7.755055   ssp245
+
+MIROC6
+        tasmax scenario
+Year                   
+2061  8.174085   ssp370
+
+MIROC6
+         tasmax scenario
+Year                    
+2097  13.207445   ssp585
+
+MPI-ESM1-2-LR
+        tasmax    scenario
+Year                      
+1928  3.174684  historical
+
+MPI-ESM1-2-LR
+MPI-ESM1-2-LR
+        tasmax scenario
+Year                   
+2031  4.667304   ssp126
+2054  5.014924   ssp126
+2088  4.959084   ssp126
+
+MPI-ESM1-2-LR
+        tasmax scenario
+Year                   
+2018  4.670174   ssp245
+2053  5.542254   ssp245
+2069  5.291504   ssp245
+2093  7.636204   ssp245
+2093  5.972354   ssp245
+
+MPI-ESM1-2-LR
+        tasmax scenario
+Year                   
+2016  4.481024   ssp370
+
+MPI-ESM1-2-LR
+MRI-ESM2-0
+        tasmax    scenario
+Year                      
+2006  4.564723  historical
+
+MRI-ESM2-0
+        tasmax scenario
+Year                   
+2046  5.592043   ssp119
+
+MRI-ESM2-0
+MRI-ESM2-0
+MRI-ESM2-0
+MRI-ESM2-0
+MRI-ESM2-0
+MRI-ESM2-0
+MRI-ESM2-0
+MRI-ESM2-0
+MRI-ESM2-0
+MRI-ESM2-0
+NESM3
+NESM3
+NESM3
+NESM3
+NESM3
+NESM3
+NorESM2-MM
+NorESM2-MM
+NorESM2-MM
+NorESM2-MM
+NorESM2-MM
+NorESM2-MM
+TaiESM1
+        tasmax    scenario
+Year                      
+1952  5.526269  historical
+
+TaiESM1
+TaiESM1
+TaiESM1
+TaiESM1
+TaiESM1
